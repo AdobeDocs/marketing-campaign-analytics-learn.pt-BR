@@ -64,6 +64,6 @@ ht-degree: 0%
 
 >[!ENDSHADEBOX]
 
-Consulte os principais recursos do Marketing Campaign Analytics na interface. Para obter informações adicionais, consulte o [guia do Adobe Marketing Campaign Analytics](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow).
+Consulte os principais recursos do Marketing Campaign Analytics na interface. Para obter informações adicionais, consulte o [guia do Adobe Marketing Campaign Analytics](https://experienceleague.adobe.com/pt-br/docs/mix-modeler/using/get-started/workflow).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424851?learn=on&enablevpops)
