@@ -1,29 +1,37 @@
 ---
-title: Vídeos e tutoriais do Mix Modeler
-description: Uma coleção de vídeos e tutoriais do Adobe Mix Modeler.
+title: Vídeos e tutoriais do Marketing Campaign Analytics
+description: Uma coleção de vídeos e tutoriais do Adobe Marketing Campaign Analytics.
 doc-type: overview-page
 mini-toc-levels: 1
 exl-id: 451a1f0d-3116-4166-9bfe-6b1a295ebac8
-TQID: https://experienceleague.adobe.com/FWQ4ob4bYY75UfFmRFj7q-P5zX6k7d8jH5BV6C76HEU
+TQID: 'https://experienceleague.adobe.com/u-cvOylzy9JlmaXEA6Blw4fr-WfpKrmJB7oK70Lp3AY'
 product_v2:
   - id: b88c80e3-31df-4609-989d-d4dac0e6d973
+    internal-label: Marketing Campaign Analytics
 feature_v2:
   - id: f40f1683-8300-4054-aab8-77da06ad63ff
+    internal-label: Models
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-source-git-commit: 1173a14c0dbe6b418918a687a9216a8cb2c7c24f
+    internal-label: Machine learning
+source-git-commit: 9204bd8bbe86d179f4059b292de137b34933b6db
 workflow-type: tm+mt
-source-wordcount: 124
-ht-degree: 12%
-
+source-wordcount: '184'
+ht-degree: 1%
 ---
+# Tutoriais do Marketing Campaign Analytics
 
-# Tutoriais do Mix Modeler
+>[!BEGINSHADEBOX]
 
-Saiba mais sobre o Adobe Mix Modeler nesses vídeos e tutoriais.
+**Adobe Marketing Campaign Analytics** é a evolução e reformulação da marca do **Adobe Marketing Campaign Analytics**. Parte do conteúdo do Experience League ainda pode se referir ao Mix Modeler em vez do Marketing Campaign Analytics.
 
-O Adobe Mix Modeler ajuda as organizações a medir, otimizar e planejar investimentos de marketing aplicando modelos de aprendizado de máquina que fornecem insights sobre o impacto histórico e futuro dos investimentos de marketing nas principais metas comerciais.
+>[!ENDSHADEBOX]
+
+Saiba mais sobre o Adobe Marketing Campaign Analytics nesses vídeos e tutoriais.
+
+O Adobe Marketing Campaign Analytics ajuda as organizações a medir, otimizar e planejar investimentos de marketing aplicando modelos de aprendizado de máquina que fornecem insights sobre o impacto histórico e futuro dos investimentos de marketing nas principais metas comerciais.
 
 
 <div id="recs-overview-body-1"></div>
@@ -40,7 +48,7 @@ O Adobe Mix Modeler ajuda as organizações a medir, otimizar e planejar investi
 <tr>
   <td>
     <a href="intro/demo.md">
-      <img alt="imagem em miniatura do tutorial &quot;Demonstração completa&quot;" src="https://video.tv.adobe.com/v/3440799?captions=por_br&format=jpeg" />
+      <img alt="imagem em miniatura do tutorial &quot;Demonstração completa&quot;" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
     </a>
     <div>
       <a href="intro/demo.md">
@@ -48,12 +56,12 @@ O Adobe Mix Modeler ajuda as organizações a medir, otimizar e planejar investi
     </a>
     </div>
     <p>
-    <em>Veja uma demonstração completa do Adobe Mix Modeler</em>
+    <em>Veja uma demonstração completa do Adobe Marketing Campaign Analytics</em>
     <p>
   </td>
   <td>
     <a href="intro/user-interface-tour.md">
-      <img alt="imagem em miniatura do vídeo &quot;User interface tour&quot;" src="https://video.tv.adobe.com/v/3452387?captions=por_br&format=jpeg" />
+      <img alt="imagem em miniatura do vídeo &quot;User interface tour&quot;" src="https://video.tv.adobe.com/v/3424851?format=jpeg" />
     </a>
     <div>
       <a href="intro/user-interface-tour.md">
@@ -61,12 +69,12 @@ O Adobe Mix Modeler ajuda as organizações a medir, otimizar e planejar investi
     </a>
     </div>
     <p>
-    <em>Conheça os principais componentes da interface do usuário do Adobe Mix Modeler</em>
+    <em>Conheça os principais componentes da interface do usuário do Adobe Marketing Campaign Analytics</em>
     <p>
   </td>
   <td>
     <a href="intro/user-workflow.md">
-      <img alt="imagem em miniatura do tutorial &quot;Fluxo de trabalho do usuário&quot;" src="https://video.tv.adobe.com/v/3440208?captions=por_br&format=jpeg" />
+      <img alt="imagem em miniatura do tutorial &quot;Fluxo de trabalho do usuário&quot;" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
     </a>
     <div>
       <a href="intro/user-workflow.md">
@@ -74,7 +82,7 @@ O Adobe Mix Modeler ajuda as organizações a medir, otimizar e planejar investi
     </a>
     </div>
     <p>
-    <em>Saiba mais sobre o fluxo de trabalho do usuário no Adobe Mix Modeler</em>
+    <em>Saiba mais sobre o fluxo de trabalho do usuário no Adobe Marketing Campaign Analytics</em>
     <p>
   </td>
 </tr>
