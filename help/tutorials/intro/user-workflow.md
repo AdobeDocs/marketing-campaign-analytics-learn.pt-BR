@@ -49,4 +49,4 @@ ht-degree: 0%
 
 Saiba mais sobre o fluxo de trabalho do Marketing Campaign Analytics. Para obter informações adicionais, consulte a documentação do [fluxo de trabalho do Marketing Campaign Analytics](https://experienceleague.adobe.com/pt-br/docs/mix-modeler/using/get-started/workflow).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424854?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440208?captions=por_br&learn=on&enablevpops)
