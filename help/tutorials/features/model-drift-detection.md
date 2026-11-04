@@ -28,19 +28,19 @@ level_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 9204bd8bbe86d179f4059b292de137b34933b6db
+source-git-commit: d48aefc7040e9ad22f86c87326bceddc09113e67
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '100'
 ht-degree: 0%
 ---
 # Detecção de desvio de modelo
 
 >[!BEGINSHADEBOX]
 
-**Adobe Marketing Campaign Analytics** é a evolução e reformulação da marca do **Adobe Marketing Campaign Analytics**. Parte do conteúdo do Experience League ainda pode se referir ao Mix Modeler em vez do Marketing Campaign Analytics.
+**Adobe Marketing Campaign Analytics** é a evolução e reformulação da marca do **Adobe Mix Modeler**. Parte do conteúdo do Experience League ainda pode se referir ao Mix Modeler em vez do Marketing Campaign Analytics.
 
 >[!ENDSHADEBOX]
 
-Com o recurso de detecção de desvio de modelo do Marketing Campaign Analytics, as alterações no desempenho do modelo são detectadas automaticamente e os usuários são notificados. Eles podem tomar medidas imediatas para retornar o modelo ao desempenho ideal. Para obter mais informações, consulte [Descompasso do modelo](https://experienceleague.adobe.com/pt-br/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} na documentação do Marketing Campaign Analytics.
+Com o recurso de detecção de desvio de modelo do Marketing Campaign Analytics, as alterações no desempenho do modelo são detectadas automaticamente e os usuários são notificados. Eles podem tomar medidas imediatas para retornar o modelo ao desempenho ideal. Para obter mais informações, consulte [Descompasso do modelo](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} na documentação do Marketing Campaign Analytics.
 
 >[!SLIDE](model-drift-detection)
